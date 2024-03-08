@@ -1,0 +1,9 @@
+{
+  "name": "@ngofaster/ngofaster-tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Finish Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@ngofaster",
+  "repository": "https://github.com/nvanhon/ngofaster-tea-xyz-quest.git",
+  "license": "ISC"
+}
